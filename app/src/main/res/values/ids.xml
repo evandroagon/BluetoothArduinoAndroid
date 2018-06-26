@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="statusMessage" type="id">statusmessage</item>
+    <item name="counterMessage" type="id">countermessage</item>
+    <item name="bt_Reiniciar" type="id">bt_reiniciar</item>
+</resources>
